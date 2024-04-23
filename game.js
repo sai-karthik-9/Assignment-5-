@@ -11,7 +11,7 @@ const imgs = [
   "zombie-5.png",
   "zombie-6.png"
 ];
-let lives = 3;
+let lives = 5;
 // Iteration 1.2: Add shotgun sound
 const shotgunAudio = new Audio("./assets/shotgun.wav");
 shotgunAudio.volume = 0.5;
